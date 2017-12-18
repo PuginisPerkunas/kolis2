@@ -1,0 +1,3 @@
+rootProject.name = 'kolis2'
+
+include ':app'
